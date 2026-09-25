@@ -6,6 +6,14 @@ It gathers external project dependencies, groups textures into dedicated folders
 
 ---
 
+## Watch Tutorial & Walkthrough
+
+[![CollectBox for Houdini Tutorial](https://img.youtube.com/vi/fGB_6N6UH-M/maxresdefault.jpg)](https://www.youtube.com/watch?v=fGB_6N6UH-M)
+
+> 🎬 *Click the thumbnail above to watch the walkthrough and setup guide on YouTube.*
+
+---
+
 ## Compatibility
 * **Tested on:** Houdini 22 (Supports Houdini 20.x, 20.5, and 22+)
 * **Platforms:** Windows, macOS, Linux
