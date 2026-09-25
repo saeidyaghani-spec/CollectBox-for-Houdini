@@ -1,0 +1,19 @@
+{
+    "author": "Saeid Yaghani",
+    "version": "1.0.0",
+    "description": "Smart Asset Collector for Houdini",
+    "env": [
+        {
+            "HOUDINI_PATH": {
+                "value": "$HOUDINI_PACKAGE_PATH/CollectBox",
+                "method": "prepend"
+            }
+        },
+        {
+            "PYTHONPATH": {
+                "value": "$HOUDINI_PACKAGE_PATH/CollectBox/python",
+                "method": "prepend"
+            }
+        }
+    ]
+}

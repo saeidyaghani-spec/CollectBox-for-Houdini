@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shelfDocument>
+  <toolshelf name="collectbox_shelf" label="CollectBox">
+    <memberTool name="collectbox_tool"/>
+  </toolshelf>
+
+  <tool name="collectbox_tool" label="CollectBox" icon="collectBox_icon.png">
+    <helpText><![CDATA[Smart Project Asset Collector for Houdini by Saeid Yaghani.]]></helpText>
+    <script scriptType="python"><![CDATA[
+import collectbox
+collectbox.launch_collectbox()
+]]></script>
+  </tool>
+</shelfDocument>
